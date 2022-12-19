@@ -7723,7 +7723,7 @@ MonoBehaviour:
   m_Follow: {fileID: 1442917631}
   m_Lens:
     FieldOfView: 45
-    OrthographicSize: 6.5
+    OrthographicSize: 2
     NearClipPlane: 0.3
     FarClipPlane: 1000
     Dutch: 0
@@ -7747,7 +7747,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2002429596}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -12.14026, y: -7.113422, z: 22.689999}
+  m_LocalPosition: {x: -12.140259, y: -7.023422, z: 22.689999}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
